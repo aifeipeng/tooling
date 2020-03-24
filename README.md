@@ -10,7 +10,7 @@
 - npm-check-updates
 
 ## VS Code
-- Autom import
+- Auto import
 - Bracket pair colorizer
 - Code spell checker
 - DotEnv
