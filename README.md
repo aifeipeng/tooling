@@ -28,9 +28,11 @@
 - YAML
 
 ## kubernetes
+- kubectl
+- kubectx
 - kubens
 - minikube
-- kubectl
+
 
 ## docker
 - docker cli
