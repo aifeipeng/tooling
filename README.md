@@ -17,6 +17,7 @@
 - ESLint
 - ES7 React/Redux/GraphQL/React-Native snippets
 - Gitlens
+- Git graph
 - hadloint
 - Import cost
 - Kubernetes
@@ -26,6 +27,7 @@
 - npm intellisense
 - Prettier code formatter
 - YAML
+- nginx.conf
 
 ## kubernetes
 - kubectl
