@@ -11,7 +11,6 @@
 
 ## VS Code
 - Auto import
-- Bracket pair colorizer
 - Code spell checker
 - DotEnv
 - ESLint
